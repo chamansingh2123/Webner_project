@@ -1,0 +1,98 @@
+.content1{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(229, 173, 182);
+}
+  .background-img{
+    background-image: url("bck.avif");
+    background-size: cover;
+    height: 600px;
+  }
+    .box-btnn button{
+        width: 350px;
+        height: 50px;
+        margin-top: 10px;
+        background-color: purple;
+        font-size: 1.3rem;
+        color: white;
+    }
+    .ok2{
+        display: flex;
+    }
+    .ok3{
+        display: flex;
+    }
+    .heading5{
+      text-align: center;
+      font-size: 50px;
+      color: blue;
+    }
+    .containar1-fluid background-img{
+      background-image: url(download.jfif);
+      background-size: cover;
+      height: 550px;
+    }
+    .nono3{
+      color: rgb(219, 203, 203);
+      width: 100%;
+      height: 600px;
+    }
+    .card-text {
+   
+      display: flex;
+      text-align: center;
+     
+     
+  }
+  .titels{
+      color: rgb(66, 66, 255);
+      text-align: center;
+      font-size: 60px;
+  }
+  .contain-last{
+    margin-top: 20px;
+    background-color: rgb(194, 141, 150);
+    background-size: cover;
+    height: 700px;
+
+}
+.txt-3 h1{
+    font-size: 40px;
+    text-align: center;
+}
+.txt-3 p{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.butnn{
+    text-align: center;
+    margin-top: 100px;
+}
+.btn{
+    width: 300px;
+    color: black;
+    background-color: white;
+    margin-top: 10px;
+}
+ .buttnn2 button{
+    width:620px ;
+    height: 50px;
+    text-align: left;
+}
+.blue-container{
+    background-color: blue;
+    height: 600px;
+    margin-top: 40px;
+}
+.heading6{
+  font-size: 45px;
+  color: blue;
+  text-align: center;
+  margin-top: 60px;
+}
+.eee{
+  text-align: center;
+  color: rgb(233, 179, 108);
+  
+}
